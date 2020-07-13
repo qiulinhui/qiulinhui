@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m 失了智。
 <!--
 **qiulinhui/qiulinhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
